@@ -9,3 +9,9 @@ Welcome to my corner of the internet! I'm just starting my journey into the worl
 - 📫 You can reach me at: **divyanshshukla765@gmail.com**
 
 I'm looking forward to sharing my first projects here soon!
+
+     #include <stdio.h>
+     int main(){
+     printf("THANK YOU FOR GIGIVING YOUR SPECIOUS TIME")
+     return 0;
+     }
